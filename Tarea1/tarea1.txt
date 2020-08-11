@@ -1,0 +1,19 @@
+Diferencia entre lenguajes de programación imperativos y lenguajes de programación declarativos:
+
+En el lenguajes de programación imperativos,  excepción de las estructuras o bucles de control condicional, estas instrucciones se ejecutan en secuencia. Existen declaraciones de variables, tipos y procedimientos, aunque varían según el lenguaje utilizado, porque algunas declaraciones necesitan ser declaradas, mientras que otras no necesitan declarar estos elementos. Ejemplo:
+
+	procedimiento factorial(int n){
+     		int resultado = 1;
+
+     		while (n > 0) {
+        		resultado = resultado * n;
+        		n = n - 1;
+     		}
+     		return resultado;
+  	}
+
+
+El lenguajes de programación declarativos, se basa más en las matemáticas y la lógica que en el lenguaje imperativo, que está más cerca del razonamiento humano. El lenguaje declarativo no dice cómo hacer algo, dice qué hacer. A diferencia de los imperativos, no suele haber declaraciones de variables o tipos. Ejemplo:
+
+	factorial(0) = 1
+  	factorial(n) = n*factorial(n-1)
