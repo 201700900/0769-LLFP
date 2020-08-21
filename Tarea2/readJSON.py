@@ -9,8 +9,9 @@ def readJson():
 def imprimirJSON():
     dict = readJson()
     print("-------TIPO---------------")
-    print(dict)
-    Print("-----------------------")
+    print(type(dict))
+    print("-----------------------")
+    
     for element in dict:
         print("nombre: " + element.get('nombre', ''))
         print("edad: " + str(element.get('edad', '')) )

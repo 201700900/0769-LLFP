@@ -21,10 +21,13 @@ opcion = 0
 
 while not salir:
 
-    print ("1. JSON")
-    print ("2. XML")
-    print ("3. CSV")
+    print("------------------------------------------------------------------------------------------")
+    print("Elija el tipo de archivo que desea ver")
+    print ("1. .JSON")
+    print ("2. .XML")
+    print ("3. .CSV")
     print ("4. Salir")
+    print("~~~~~~")
     print ("Elige una opcion")
     opcion = pedirNumeroEntero()
 

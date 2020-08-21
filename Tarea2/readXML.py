@@ -7,7 +7,7 @@ def imprimirXML():
 
     print(nombre.firstChild.data)
     empleados = doc.getElementsByTagName("empleado")
-    print("-------------------------------")
+    print("---------TIPO----------------------")
     print(type(empleados))
     print("--------------------------------")
     for empleado in empleados:
