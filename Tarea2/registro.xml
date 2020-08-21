@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+    <empresa>
+        <empleado id="1">
+            <nombre>José Ernesto</nombre>
+            <username>jose</username>
+            <password>321423</password>
+            <carnet>201709000</carnet>
+        </empleado>
+        <empleado id="2">
+            <nombre>Daniel Pérez</nombre>
+            <username>dperez</username>
+            <password>433543</password>
+            <carnet>201658960</carnet>
+        </empleado>
+        <empleado id="3">
+            <nombre>Ricardo Juarez</nombre>
+            <username>ricky</username>
+            <password>contrasenia</password>
+            <carnet>201512000</carnet>
+        </empleado>
+        <empleado id="4">
+            <nombre>Rigoberto Menchu</nombre>
+            <username>menchute</username>
+            <password>123456</password>
+            <carnet>201852364</carnet>
+        </empleado>
+    </empresa>

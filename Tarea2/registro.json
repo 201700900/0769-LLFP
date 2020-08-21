@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "Pepito Conejo",
+      "edad": 25,
+      "activo": true,
+      "promedio": 60.555
+    },
+    {
+      "nombre": "Ana Barberá",
+      "edad": 23,
+      "activo": false,
+      "promedio": 80.526
+    },
+    {
+      "nombre": "Juan Toballo",
+      "edad": 19,
+      "activo": true,
+      "promedio": 86.555
+    },
+    {
+      "nombre": "Nitu Niyo",
+      "edad": 22,
+      "activo": false,
+      "promedio": 70.526
+    }
+  ]
