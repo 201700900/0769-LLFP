@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Pepito Conejo",
+    "edad": 25,
+    "activo": true,
+    "saldo": 60.555
+  },
+  {
+    "nombre": "Ana Barberá",
+    "edad": 23,
+    "activo": false,
+    "saldo": 80.526
+  },
+  {
+    "nombre": "Juan Toballo",
+    "edad": 19,
+    "activo": true,
+    "saldo": 86.555
+  },
+  {
+    "nombre": "Nitu Niyo",
+    "edad": 22,
+    "activo": false,
+    "saldo": 70.526
+  },
+  {
+    "nombre": "Alberto Tobayo",
+    "edad": 28,
+    "activo": false,
+    "saldo": 500.00
+  },
+    {
+      "nombre": "Sara Berbejo",
+      "edad": 30,
+      "activo": false,
+      "saldo": 8509.6    
+    },
+    {
+      "nombre": "Alfonso Quaron",
+      "edad": 19,
+      "activo": true,
+      "saldo": 186.555
+    },
+    {
+      "nombre": "Niel Niella",
+      "edad": 50,
+      "activo": true,
+      "saldo": 700.526
+    },
+    {
+      "nombre": "Sam Tortuga",
+      "edad": 25,
+      "activo": true,
+      "saldo": 60.555
+    },
+    {
+      "nombre": "Laura Tintan",
+      "edad": 23,
+      "activo": false,
+      "saldo": 820.526
+    },
+    {
+      "nombre": "Bermijo Caballo",
+      "edad": 19,
+      "activo": true,
+      "saldo": 86.555
+    },
+    {
+      "nombre": "Juan Carlos",
+      "edad": 22,
+      "activo": true,
+      "saldo": 70.526
+    }
+  ]
