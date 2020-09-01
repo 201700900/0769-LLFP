@@ -27,25 +27,25 @@
     "nombre": "Alberto Tobayo",
     "edad": 28,
     "activo": false,
-    "saldo": 500.00
+    "saldo": 50.00
   },
     {
       "nombre": "Sara Berbejo",
       "edad": 30,
       "activo": false,
-      "saldo": 8509.6    
+      "saldo": 85.6    
     },
     {
       "nombre": "Alfonso Quaron",
       "edad": 19,
       "activo": true,
-      "saldo": 186.555
+      "saldo": 18.555
     },
     {
       "nombre": "Niel Niella",
       "edad": 50,
       "activo": true,
-      "saldo": 700.526
+      "saldo": 70.526
     },
     {
       "nombre": "Sam Tortuga",
@@ -57,7 +57,7 @@
       "nombre": "Laura Tintan",
       "edad": 23,
       "activo": false,
-      "saldo": 820.526
+      "saldo": 82.526
     },
     {
       "nombre": "Bermijo Caballo",
