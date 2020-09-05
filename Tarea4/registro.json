@@ -1,4 +1,37 @@
 [
+<<<<<<< HEAD
+=======
+  {
+    "nombre": "Pepito Conejo",
+    "edad": 25,
+    "activo": true,
+    "saldo": 60.555
+  },
+  {
+    "nombre": "Ana Barberá",
+    "edad": 23,
+    "activo": false,
+    "saldo": 80.526
+  },
+  {
+    "nombre": "Juan Toballo",
+    "edad": 19,
+    "activo": true,
+    "saldo": 86.555
+  },
+  {
+    "nombre": "Nitu Niyo",
+    "edad": 22,
+    "activo": false,
+    "saldo": 70.526
+  },
+  {
+    "nombre": "Alberto Tobayo",
+    "edad": 28,
+    "activo": false,
+    "saldo": 50.00
+  },
+>>>>>>> e1da6515e4bfbadc3128ffcf713c48aa67e6560a
     {
       "nombre": "Pepito Conejo",
       "edad": 25,
@@ -9,18 +42,31 @@
       "nombre": "Ana Barberá",
       "edad": 23,
       "activo": false,
+<<<<<<< HEAD
       "saldo": 80.526
+=======
+      "saldo": 85.6    
+>>>>>>> e1da6515e4bfbadc3128ffcf713c48aa67e6560a
     },
     {
       "nombre": "Juan Toballo",
       "edad": 19,
       "activo": true,
+<<<<<<< HEAD
       "saldo": 86.555
     },
     {
       "nombre": "Nitu Niyo",
       "edad": 22,
       "activo": false,
+=======
+      "saldo": 18.555
+    },
+    {
+      "nombre": "Niel Niella",
+      "edad": 50,
+      "activo": true,
+>>>>>>> e1da6515e4bfbadc3128ffcf713c48aa67e6560a
       "saldo": 70.526
     },
     {
@@ -33,7 +79,11 @@
       "nombre": "Ana Barberá",
       "edad": 23,
       "activo": false,
+<<<<<<< HEAD
       "saldo": 80.526
+=======
+      "saldo": 82.526
+>>>>>>> e1da6515e4bfbadc3128ffcf713c48aa67e6560a
     },
     {
       "nombre": "Juan Toballo",
