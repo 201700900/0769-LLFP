@@ -2,15 +2,18 @@ import pandas as pd
 import webbrowser
 import json
 
+data=[]
 def reportar():
-    data=[]
-    file = open("registro.json")
-    array = json.loads(file.read())
-
-    for nuevo in array:
-        data.append(nuevo)
-
+    global data
+    with open ("registro.json") as f:
+        array = json.loads(f.read())
+        for dic in array:
+            data.append(dic)    
+    print(data)
     df= pd.DataFrame(data=data)
+    print(df)
+    print(df.to_html())
+    
     header="""<!DOCTYPE html>
                         <html>
                         <head>
